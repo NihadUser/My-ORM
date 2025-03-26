@@ -2,7 +2,7 @@
 
 class DBquery
 {
-
+echo "Salam";
     public static string $table = '';
 
     public static $conn = null;
