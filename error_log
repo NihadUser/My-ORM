@@ -1,0 +1,1649 @@
+[26-Dec-2024 12:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:17:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 32
+[26-Dec-2024 12:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 36
+[26-Dec-2024 12:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 36
+[26-Dec-2024 12:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 36
+[26-Dec-2024 12:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:59:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 12:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 13:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 13:04:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 13:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 28
+[26-Dec-2024 13:14:29 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 17
+[26-Dec-2024 13:14:31 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 17
+[26-Dec-2024 13:14:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /home3/legoschool/public_html/lacms/include/api/v1/index.php:15
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(15): str_replace('/lacms/include/...', '/lacms/include/...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[26-Dec-2024 13:14:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /home3/legoschool/public_html/lacms/include/api/v1/index.php:15
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(15): str_replace('/lacms/include/...', '/lacms/include/...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[26-Dec-2024 13:14:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /home3/legoschool/public_html/lacms/include/api/v1/index.php:15
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(15): str_replace('/lacms/include/...', '/lacms/include/...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[26-Dec-2024 13:14:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /home3/legoschool/public_html/lacms/include/api/v1/index.php:15
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(15): str_replace('/lacms/include/...', '/lacms/include/...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[26-Dec-2024 13:14:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /home3/legoschool/public_html/lacms/include/api/v1/index.php:15
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(15): str_replace('/lacms/include/...', '/lacms/include/...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[26-Dec-2024 13:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleRequest() in /home3/legoschool/public_html/lacms/include/api/v1/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 30
+[26-Dec-2024 13:28:50 UTC] PHP Warning:  require_once(controllers/UserController.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:28:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/UserController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/routes.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:28:57 UTC] PHP Warning:  require_once(controllers/UserController.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:28:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/UserController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/routes.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:29:49 UTC] PHP Warning:  require_once(/controllers/UserController.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:29:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/controllers/UserController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/routes.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:30:12 UTC] PHP Warning:  require_once(/Controllers/UserController.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:30:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Controllers/UserController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/routes.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/routes.php on line 2
+[26-Dec-2024 13:30:42 UTC] PHP Warning:  require_once(../Models/User.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:30:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../Models/User.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(2): require_once()
+#1 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:23 UTC] PHP Warning:  require_once(../Models/User.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../Models/User.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(2): require_once()
+#1 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:34 UTC] PHP Warning:  require_once(../Models/User.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../Models/User.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(2): require_once()
+#1 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:57 UTC] PHP Warning:  require_once(../Models/User.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:35:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../Models/User.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(2): require_once()
+#1 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:45:00 UTC] PHP Warning:  require_once(/Models/User.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 13:45:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Models/User.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(2): require_once()
+#1 /home3/legoschool/public_html/lacms/include/api/v1/index.php(10): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php on line 3
+[26-Dec-2024 14:05:57 UTC] PHP Warning:  Undefined array key "state" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:05:57 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:11:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php:10
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php(10): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php(17): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(8): UserController::login()
+#3 /home3/legoschool/public_html/lacms/include/api/v1/index.php(21): handleRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php on line 10
+[26-Dec-2024 14:12:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php:10
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php(10): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php(17): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(8): UserController::login()
+#3 /home3/legoschool/public_html/lacms/include/api/v1/index.php(21): handleRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php on line 10
+[26-Dec-2024 14:22:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php:10
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php(10): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/include/api/v1/Controllers/UserController.php(17): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/include/api/v1/routes.php(8): UserController::login()
+#3 /home3/legoschool/public_html/lacms/include/api/v1/index.php(21): handleRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/include/api/v1/Models/User.php on line 10
+[26-Dec-2024 14:23:32 UTC] PHP Warning:  Undefined array key "state" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:23:32 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:23:35 UTC] PHP Warning:  Undefined array key "state" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:23:35 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:25:26 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:25:36 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:26:32 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:27:39 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:27:41 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:28:05 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:28:11 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:29:22 UTC] PHP Warning:  Undefined array key "state" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:29:22 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:34:22 UTC] PHP Warning:  Undefined array key "state" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:34:22 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 16
+[26-Dec-2024 14:56:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/legoschool/public_html/lacms/include/api/v1/index.php:16) in /home3/legoschool/public_html/lacms/include/api/v1/helpers/ResponseHelper.php on line 4
+[27-Dec-2024 09:14:08 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[27-Dec-2024 09:14:24 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[27-Dec-2024 09:14:28 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[27-Dec-2024 09:14:43 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/include/api/v1/index.php on line 15
+[27-Dec-2024 09:18:34 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:18:40 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:19:55 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:19:59 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:20:20 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:20:23 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:20:40 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:22:58 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 16
+[27-Dec-2024 09:34:33 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 15
+[27-Dec-2024 09:51:36 UTC] PHP Warning:  Undefined variable $data in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 71
+[27-Dec-2024 09:51:46 UTC] PHP Warning:  Undefined variable $data in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 71
+[27-Dec-2024 09:51:47 UTC] PHP Warning:  Undefined variable $data in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 71
+[27-Dec-2024 09:58:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:12
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(12): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(16): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(17): UserController::login()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(17): handlePostRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 12
+[27-Dec-2024 09:59:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:12
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(12): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(16): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(17): UserController::login()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(17): handlePostRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 12
+[27-Dec-2024 09:59:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:12
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(12): PDO->prepare('SELECT * FROM u...')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(16): User::login('xxx', 'aaaa')
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(17): UserController::login()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(17): handlePostRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 12
+[27-Dec-2024 10:15:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(10): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(8): OrderController::allOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(20): handleGetRequest('GET', 'order/all')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[27-Dec-2024 13:01:45 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:02:22 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:04:48 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:05:55 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:05:58 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:06:09 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:08:45 UTC] PHP Fatal error:  Cannot use "parent" when current class scope has no parent in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 9
+[27-Dec-2024 13:11:05 UTC] PHP Fatal error:  Type of Driver::$table must be string (as in class DBquery) in /home3/legoschool/public_html/lacms/api/v1/Models/Driver.php on line 0
+[27-Dec-2024 13:17:40 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/index.php on line 30
+[27-Dec-2024 13:17:40 UTC] PHP Warning:  Undefined variable $Array in /home3/legoschool/public_html/lacms/api/v1/index.php on line 30
+[27-Dec-2024 13:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/index.php on line 30
+[27-Dec-2024 13:18:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendResponse(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Controllers/DriverController.php on line 9 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/DriverController.php(9): sendResponse(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(14): DriverController::driver('1')
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(34): handleGetRequest('GET', 'driver/list')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 2
+[27-Dec-2024 13:21:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendResponse(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Controllers/DriverController.php on line 9 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php:2
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/DriverController.php(9): sendResponse(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(14): DriverController::driver('1')
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(34): handleGetRequest('GET', 'driver/list')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 2
+[27-Dec-2024 13:44:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SECRET_KEY" in /home3/legoschool/public_html/lacms/api/v1/index.php:18
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(24): checkSecretKey()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/index.php on line 18
+[27-Dec-2024 13:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OrderController::updateStatus() in /home3/legoschool/public_html/lacms/api/v1/routes.php:25
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/update')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 25
+[27-Dec-2024 13:57:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::update(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 19 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:148
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(19): DBquery::update(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(13): Order::updateOrder()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): OrderController::updateStatus()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/update')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 148
+[27-Dec-2024 13:58:51 UTC] PHP Warning:  Undefined array key "success" in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 24
+[06-Jan-2025 12:56:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SECRET_KEY" in /home3/legoschool/public_html/lacms/api/v1/index.php:17
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(23): checkSecretKey()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/index.php on line 17
+[06-Jan-2025 12:58:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SECRET_KEY" in /home3/legoschool/public_html/lacms/api/v1/index.php:17
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(23): checkSecretKey()
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/index.php on line 17
+[06-Jan-2025 13:09:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user123' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(23): DBquery::get(Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[06-Jan-2025 13:09:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user1' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(23): DBquery::get(Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[06-Jan-2025 13:10:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::where(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:101
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(23): DBquery::where(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 101
+[06-Jan-2025 13:11:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 107
+[06-Jan-2025 13:11:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 108
+[06-Jan-2025 13:12:03 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 107
+[06-Jan-2025 13:12:03 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 108
+[06-Jan-2025 13:12:12 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 107
+[06-Jan-2025 13:12:12 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 108
+[06-Jan-2025 13:23:06 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:24
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 24
+[06-Jan-2025 13:26:02 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:24
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 24
+[06-Jan-2025 13:29:02 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:24
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 24
+[06-Jan-2025 13:29:18 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:24
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 24
+[06-Jan-2025 13:29:37 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:25
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 25
+[06-Jan-2025 13:34:16 UTC] PHP Warning:  Undefined array key "driver_login" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 42
+[06-Jan-2025 13:34:31 UTC] PHP Warning:  Undefined array key "login" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 42
+[06-Jan-2025 14:10:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:38
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(30): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 38
+[06-Jan-2025 15:28:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 21
+[06-Jan-2025 15:28:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 29
+[06-Jan-2025 15:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 21
+[06-Jan-2025 15:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 29
+[06-Jan-2025 15:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 21
+[06-Jan-2025 15:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[06-Jan-2025 15:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 29
+[07-Jan-2025 07:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::signUpPhoto() in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:38
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(28): UserController::signUpPhoto()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signUpPhot...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 38
+[07-Jan-2025 08:15:26 UTC] PHP Fatal error:  Trait "FileUpload" not found in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 5
+[07-Jan-2025 08:26:37 UTC] PHP Warning:  imagepng(../../images/2025/01/07677ce53d04f0b.png): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 39
+[07-Jan-2025 08:34:19 UTC] PHP Warning:  imagepng(../../images/2025/01/07/677ce70baa939.png): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 39
+[07-Jan-2025 09:01:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 6
+[07-Jan-2025 09:01:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:01:24 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 9
+[07-Jan-2025 09:01:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: print_r() expects at most 2 arguments, 8 given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:73
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(73): print_r(Array, Array, Array, Array, Array, Array, Array, Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(36): User::signUpPhoto()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(28): UserController::signUpPhoto()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signUpPhot...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 73
+[07-Jan-2025 09:05:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: print_r() expects at most 2 arguments, 8 given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:73
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(73): print_r(Array, Array, Array, Array, Array, Array, Array, Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(36): User::signUpPhoto()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(28): UserController::signUpPhoto()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signUpPhot...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 73
+[07-Jan-2025 09:25:17 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 24
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "passportPhoto1" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 66
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "passportPhoto2" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 67
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "passportPhoto3" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 68
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "licencePhoto1" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 69
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "licencePhoto2" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 70
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "certificate" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 71
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Undefined array key "taxoCard" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 72
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 7
+[07-Jan-2025 09:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 8
+[07-Jan-2025 09:47:31 UTC] PHP Deprecated:  pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 10
+[07-Jan-2025 10:11:34 UTC] PHP Warning:  Undefined array key "id" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 28
+[07-Jan-2025 10:18:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::imageUpload(), 0 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 74 and exactly 1 expected in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php:5
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(74): User::imageUpload()
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(35): User::signUpPhoto()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(28): UserController::signUpPhoto()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signUpPhot...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 5
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:19:55 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 10:23:36 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[07-Jan-2025 11:18:04 UTC] PHP Warning:  Undefined array key "taxoCard" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 74
+[07-Jan-2025 11:18:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 84
+[07-Jan-2025 11:18:36 UTC] PHP Warning:  Undefined array key "taxoCard" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 74
+[07-Jan-2025 11:18:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 84
+[07-Jan-2025 11:20:06 UTC] PHP Warning:  Undefined array key "taxoCard" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 74
+[07-Jan-2025 11:22:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 84
+[07-Jan-2025 12:19:46 UTC] PHP Warning:  Undefined array key "user_name" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 23
+[07-Jan-2025 12:20:41 UTC] PHP Warning:  Undefined array key "password2" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 24
+[07-Jan-2025 12:26:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:190
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(108): User::addDriver(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 190
+[07-Jan-2025 12:27:13 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:190
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(108): User::addDriver(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 190
+[07-Jan-2025 12:44:41 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined variable $21332323e2 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined variable $21332323e2 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined variable $21332323e2 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 79
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined array key "contact1" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 84
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined array key "contact1" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 85
+[07-Jan-2025 12:44:41 UTC] PHP Warning:  Undefined array key "contact1" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 86
+[07-Jan-2025 12:45:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 84
+[07-Jan-2025 12:45:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 85
+[07-Jan-2025 12:45:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 86
+[07-Jan-2025 12:45:55 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(false)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 89
+[07-Jan-2025 12:46:28 UTC] PHP Warning:  Undefined array key "passportNo" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 96
+[07-Jan-2025 12:46:28 UTC] PHP Warning:  Undefined array key "user_name" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 103
+[07-Jan-2025 12:46:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 103
+[07-Jan-2025 12:55:42 UTC] PHP Warning:  Undefined array key "contact3" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 89
+[07-Jan-2025 12:55:42 UTC] PHP Warning:  Undefined array key "contact3" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 89
+[07-Jan-2025 12:55:42 UTC] PHP Warning:  Undefined array key "contact3" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 89
+[07-Jan-2025 13:19:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function User::imageUpload(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 184 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php:5
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(184): User::imageUpload(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(35): User::signUpPhoto()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(28): UserController::signUpPhoto()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signUpPhot...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/FileUpload.php on line 5
+[08-Jan-2025 07:53:18 UTC] PHP Warning:  Undefined variable $checkContact3 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 110
+[08-Jan-2025 07:53:18 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:110
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(26): User::signUp(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(25): UserController::signUp()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 110
+[08-Jan-2025 09:07:07 UTC] PHP Warning:  require_once(Models/Car.php): Failed to open stream: No such file or directory in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 3
+[08-Jan-2025 09:07:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Models/Car.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php:3
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(5): require_once()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(7): require_once('/home3/legoscho...')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 3
+[08-Jan-2025 10:03:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Car::signup(), 0 passed in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 9 and exactly 1 expected in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:20
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 20
+[08-Jan-2025 10:03:27 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:35
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 35
+[08-Jan-2025 10:04:00 UTC] PHP Fatal error:  Uncaught Error: Non-static method Car::signup() cannot be called statically in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php:9
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 9
+[08-Jan-2025 10:04:24 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property Car::$user in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:35
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 35
+[08-Jan-2025 10:07:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:37
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(37): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 37
+[08-Jan-2025 10:07:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:07:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:07:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:07:32 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 10:08:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:08:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:08:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:08:09 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 10:10:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:10:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:10:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:10:42 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 10:11:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:11:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:11:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:11:00 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 10:11:16 UTC] PHP Warning:  Undefined array key "user_id" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 26
+[08-Jan-2025 10:12:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:12:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:12:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:12:16 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 10:16:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 10:16:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:16:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 10:16:43 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 11:22:22 UTC] PHP Fatal error:  Uncaught Error: Non-static method Car::validateUser() cannot be called statically in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:22
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(32): CarController::signUpCar()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 22
+[08-Jan-2025 11:22:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 11:22:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 11:22:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 11:22:46 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 11:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 11:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 11:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 11:23:10 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 11:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "CarBrandController" not found in /home3/legoschool/public_html/lacms/api/v1/routes.php:16
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'car/brands')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 16
+[08-Jan-2025 11:36:28 UTC] PHP Fatal error:  Cannot declare class Car, because the name is already in use in /home3/legoschool/public_html/lacms/api/v1/Models/CarBrand.php on line 6
+[08-Jan-2025 11:39:34 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarBrandController.php on line 15
+[08-Jan-2025 12:08:17 UTC] PHP Fatal error:  Cannot declare class CarBrandController, because the name is already in use in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarModelController.php on line 5
+[08-Jan-2025 12:38:18 UTC] PHP Warning:  Undefined array key "dqn" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 47
+[08-Jan-2025 12:38:18 UTC] PHP Warning:  Undefined array key "car_weight" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 55
+[08-Jan-2025 12:38:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 12:38:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:38:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:38:18 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:39:11 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:39:11 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:39:54 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:39:54 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:39:55 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:39:55 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:41:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 12:41:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:41:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:41:16 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:51:10 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:51:10 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 12:51:29 UTC] PHP Warning:  Undefined array key "badge2" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 49
+[08-Jan-2025 12:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 11
+[08-Jan-2025 12:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 12
+[08-Jan-2025 12:52:47 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[08-Jan-2025 13:07:01 UTC] PHP Warning:  Undefined array key "trailer_weight" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 60
+[08-Jan-2025 13:18:18 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarModelController.php on line 11
+[08-Jan-2025 13:18:18 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[09-Jan-2025 11:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "CarCategoryController" not found in /home3/legoschool/public_html/lacms/api/v1/routes.php:43
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/categories')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 43
+[09-Jan-2025 11:08:43 UTC] PHP Fatal error:  Type of CarCategory::$table must be string (as in class DBquery) in /home3/legoschool/public_html/lacms/api/v1/Models/CarCategory.php on line 6
+[09-Jan-2025 11:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CarCategoryController::models() in /home3/legoschool/public_html/lacms/api/v1/routes.php:44
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/categories')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 44
+[09-Jan-2025 11:11:05 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarCategoryController.php on line 12
+[09-Jan-2025 11:14:55 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarCategoryController.php on line 12
+[09-Jan-2025 11:33:27 UTC] PHP Warning:  Undefined array key "id" in /home3/legoschool/public_html/lacms/api/v1/Models/CarCategory.php on line 15
+[09-Jan-2025 12:23:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:23:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:23:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:23:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:23:29 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:34:40 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:34:40 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 12:34:40 UTC] PHP Warning:  Array to string conversion in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 166
+[09-Jan-2025 14:51:32 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 10
+[09-Jan-2025 14:51:32 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[09-Jan-2025 14:52:21 UTC] PHP Warning:  Undefined array key "userName" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 15
+[09-Jan-2025 15:07:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: PDOStatement::execute() expects at most 1 argument, 2 given in /home3/legoschool/public_html/lacms/api/v1/Models/TokenValidation.php:30
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/TokenValidation.php(30): PDOStatement->execute(Array, 1)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/CarCategory.php(12): CarCategory::validateUser()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarCategoryController.php(9): CarCategory::categories()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): CarCategoryController::categories()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/categories')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/TokenValidation.php on line 30
+[09-Jan-2025 15:17:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 10
+[09-Jan-2025 15:17:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 10
+[09-Jan-2025 15:17:52 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[09-Jan-2025 15:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:9
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(26): UserController::login()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/login')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 9
+[10-Jan-2025 08:38:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '57' for key 'driver_id' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:61
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(61): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(9): User::login()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(26): UserController::login()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/login')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 61
+[10-Jan-2025 11:10:38 UTC] PHP Warning:  Undefined array key "id" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 296
+[10-Jan-2025 11:11:45 UTC] PHP Warning:  Undefined array key "id" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 296
+[10-Jan-2025 11:14:11 UTC] PHP Fatal error:  Uncaught TypeError: DBquery::get(): Argument #2 ($where) must be of type array, string given, called in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 72 and defined in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:42
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(72): DBquery::get(2, '55', Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(299): DBquery::first('55')
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(37): User::details()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(13): UserController::details()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/details')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 42
+[10-Jan-2025 11:15:16 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, int given in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:50
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(50): implode(',', 2)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(72): DBquery::get(2, Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(299): DBquery::first(Array, Array)
+#3 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(37): User::details()
+#4 /home3/legoschool/public_html/lacms/api/v1/routes.php(13): UserController::details()
+#5 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/details')
+#6 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 50
+[10-Jan-2025 11:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:37
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(13): UserController::details()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/details')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 37
+[10-Jan-2025 11:23:01 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:37
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(13): UserController::details()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/details')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 37
+[10-Jan-2025 11:24:14 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:14 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:14 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:24:36 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:36 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:36 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:24:45 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:45 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:45 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:24:47 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:47 UTC] PHP Warning:  Undefined variable $user in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:24:47 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:25:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:25:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:25:20 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:26:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:26:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:26:10 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:27:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:27:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[10-Jan-2025 11:27:12 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[10-Jan-2025 11:32:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'taxocard_pic' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(299): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(37): User::details()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(13): UserController::details()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/details')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[10-Jan-2025 11:33:09 UTC] PHP Warning:  Undefined array key "message" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 39
+[11-Jan-2025 19:03:00 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 26
+[11-Jan-2025 19:04:00 UTC] PHP Warning:  Undefined array key "userName" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 333
+[13-Jan-2025 11:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:45
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(38): UserController::edit()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/edit')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 45
+[13-Jan-2025 11:02:18 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:45
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(38): UserController::edit()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/edit')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 45
+[13-Jan-2025 11:05:35 UTC] PHP Warning:  Undefined array key "user_name" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 333
+[13-Jan-2025 11:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 46
+[13-Jan-2025 11:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 47
+[13-Jan-2025 11:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 47
+[13-Jan-2025 11:32:17 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[13-Jan-2025 11:51:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::update(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 342 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:181
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(342): DBquery::update(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(45): User::edit()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(38): UserController::edit()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/edit')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 181
+[13-Jan-2025 11:52:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::update(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 342 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:181
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(342): DBquery::update(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(45): User::edit()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(38): UserController::edit()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/edit')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 181
+[13-Jan-2025 11:56:23 UTC] PHP Warning:  Undefined array key "driver" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 49
+[13-Jan-2025 12:27:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't13sasrt322ui' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:428
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(428): PDOStatement->execute()
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(337): User::validateUserInfo(Array, '55')
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(45): User::edit()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(38): UserController::edit()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/edit')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 428
+[13-Jan-2025 12:40:08 UTC] PHP Warning:  Undefined array key "status" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 56
+[13-Jan-2025 12:40:08 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[13-Jan-2025 13:34:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method UserController::editLogin() in /home3/legoschool/public_html/lacms/api/v1/routes.php:44
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 44
+[13-Jan-2025 13:35:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user20' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:551
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(551): PDOStatement->execute()
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(63): User::editLogin()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(44): UserController::editLogin()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 551
+[13-Jan-2025 13:37:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::update(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 561 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:181
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(561): DBquery::update(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(63): User::editLogin()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(44): UserController::editLogin()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 181
+[13-Jan-2025 13:39:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::update(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 562 and exactly 2 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:181
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(562): DBquery::update(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(63): User::editLogin()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(44): UserController::editLogin()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 181
+[13-Jan-2025 13:52:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(584): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 13:55:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(584): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 13:57:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(585): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 13:57:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(585): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 13:57:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(585): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 13:59:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'driver_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:64
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(64): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(585): DBquery::get(Array, Array)
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 64
+[13-Jan-2025 14:05:27 UTC] PHP Warning:  Undefined array key "message" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 75
+[13-Jan-2025 14:34:16 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property DBquery::$selectColumns in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:51
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(45): DBquery::resetQueryState()
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(585): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 51
+[14-Jan-2025 07:07:42 UTC] PHP Fatal error:  Cannot redeclare DBquery::join() in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 292
+[14-Jan-2025 07:22:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cars.name' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(594): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:24:08 UTC] PHP Parse error:  Unclosed '[' on line 346 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 353
+[14-Jan-2025 07:27:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN cars_model ON cars_model.id = cars.m_id' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(595): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:29:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN cars_model ON cars_model.id = cars.m_id' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(595): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:32:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as cb.id = cars.b_id' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(597): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:71
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 71
+[14-Jan-2025 07:33:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cb.name' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(597): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:33:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cb.name' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(597): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:33:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'name' in field list is ambiguous in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(597): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:34:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM cars   INNER JOIN drivers ON drivers.id = cars.driver_id   INNER JOIN car' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(598): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:39:03 UTC] PHP Parse error:  Unclosed '[' on line 346 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 353
+[14-Jan-2025 07:39:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'passport_pic2' in field list is ambiguous in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(606): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:39:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'passport_no' in field list is ambiguous in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:57
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(57): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(606): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 57
+[14-Jan-2025 07:48:09 UTC] PHP Deprecated:  Optional parameter $operator declared before required parameter $value is implicitly treated as a required parameter in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 47
+[14-Jan-2025 07:48:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 606 and exactly 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:47
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(606): DBquery::whereOrm('cars_kat.u_id', 1)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 47
+[14-Jan-2025 08:04:22 UTC] PHP Fatal error:  Uncaught Error: Class "User" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php:71
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 71
+[14-Jan-2025 08:12:47 UTC] PHP Warning:  Undefined array key "badge" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 48
+[14-Jan-2025 08:12:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 48 and exactly 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:47
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(48): DBquery::whereOrm('dqn', NULL)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(50): CarController::signUpCar()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 47
+[14-Jan-2025 08:12:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 48 and exactly 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:47
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(48): DBquery::whereOrm('dqn', '10vl623')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(50): CarController::signUpCar()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 47
+[14-Jan-2025 08:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "Car" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php:9
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(50): CarController::signUpCar()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php on line 9
+[14-Jan-2025 08:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Car::getOrm() in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:48
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(50): CarController::signUpCar()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 48
+[14-Jan-2025 08:31:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '10kt393' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:51
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(51): PDOStatement->execute()
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(9): Car::signup()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(50): CarController::signUpCar()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signup')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 51
+[14-Jan-2025 08:55:17 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property DBquery::$joinClauses in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:85
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(78): DBquery::resetQueryState()
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(615): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 85
+[14-Jan-2025 08:55:21 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property DBquery::$joinClauses in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:85
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(78): DBquery::resetQueryState()
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(615): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 85
+[14-Jan-2025 10:05:46 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 140
+[14-Jan-2025 10:40:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dnq2' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:74
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(74): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(132): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(20): Car::signUpFiles()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(53): CarController::signUpFiles()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/signUpPhoto...')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 74
+[14-Jan-2025 11:33:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Order::orders() in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php:8
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 8
+[14-Jan-2025 11:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on array in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php:17
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 17
+[14-Jan-2025 12:13:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as ok1.ok1.u_id = orders.export_country_id  WHERE  orders.status = '1'' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:73
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(73): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(18): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 73
+[14-Jan-2025 12:25:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'ok2' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:82
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(82): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(24): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 82
+[14-Jan-2025 12:36:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'ok2' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(28): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[14-Jan-2025 12:38:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 13
+[14-Jan-2025 12:38:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 13
+[14-Jan-2025 12:38:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 13
+[14-Jan-2025 12:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 10
+[14-Jan-2025 12:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 11
+[14-Jan-2025 12:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 11
+[14-Jan-2025 12:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 11
+[14-Jan-2025 12:38:51 UTC] PHP Deprecated:  http_response_code(): Passing null to parameter #1 ($response_code) of type int is deprecated in /home3/legoschool/public_html/lacms/api/v1/helpers/ResponseHelper.php on line 3
+[15-Jan-2025 07:27:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'legoscho_logistic.car_location' doesn't exist in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[15-Jan-2025 07:28:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'car_locations.ltn' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[15-Jan-2025 07:28:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'car_locations.car_locations.car_id' in 'on clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[15-Jan-2025 07:28:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'car_locations.c.driver_id' in 'on clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[15-Jan-2025 07:32:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'b_id' in on clause is ambiguous in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:88
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(88): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(615): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(71): User::car()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(16): UserController::car()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'user/car')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 88
+[15-Jan-2025 08:07:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 1 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 40 and exactly 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:54
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(40): DBquery::whereOrm('\r\n             ...')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 54
+[15-Jan-2025 08:41:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.type' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:88
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(88): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 88
+[15-Jan-2025 09:42:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.type' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:88
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(88): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(21): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 88
+[15-Jan-2025 09:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "Order" not found in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php:8
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/routes.php(19): OrderController::poolOrders()
+#1 /home3/legoschool/public_html/lacms/api/v1/index.php(31): handleGetRequest('GET', 'order/pool')
+#2 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 8
+[15-Jan-2025 10:00:35 UTC] PHP Warning:  Undefined variable $carLocation in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 19
+[15-Jan-2025 10:03:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:88
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(88): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(22): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(65): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 88
+[15-Jan-2025 11:00:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'legoscho_logisticu'@'localhost' for routine 'orders.NOW' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:89
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(89): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(53): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(65): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 89
+[15-Jan-2025 12:07:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:191
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 191
+[15-Jan-2025 12:08:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function NOW() in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:197
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 197
+[15-Jan-2025 12:17:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 199 and at least 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:53
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(199): DBquery::whereOrm('drivers.id', '55')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 53
+[15-Jan-2025 12:17:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cars.cars.driver_id' in 'on clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(200): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[15-Jan-2025 12:18:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cars.cars.driver_id' in 'on clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(200): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[15-Jan-2025 12:18:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in on clause is ambiguous in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Car.php(200): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[15-Jan-2025 12:26:30 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:208
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 208
+[15-Jan-2025 12:33:37 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 222
+[15-Jan-2025 12:33:42 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 222
+[15-Jan-2025 12:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Car::ormGrt() in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php:202
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/CarController.php(27): Car::carLocation()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): CarController::carLocation()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'car/location')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 202
+[15-Jan-2025 12:37:01 UTC] PHP Warning:  Undefined array key "" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 204
+[15-Jan-2025 12:37:01 UTC] PHP Deprecated:  date(): Passing null to parameter #1 ($format) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 204
+[15-Jan-2025 12:38:09 UTC] PHP Warning:  Undefined array key "" in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 207
+[15-Jan-2025 12:38:09 UTC] PHP Deprecated:  date(): Passing null to parameter #1 ($format) of type string is deprecated in /home3/legoschool/public_html/lacms/api/v1/Models/Car.php on line 207
+[16-Jan-2025 12:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OrderController::poolOrderDetails() in /home3/legoschool/public_html/lacms/api/v1/routes.php:68
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-deta...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 68
+[16-Jan-2025 12:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OrderController::poolOrderDetails() in /home3/legoschool/public_html/lacms/api/v1/routes.php:68
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-deta...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 68
+[16-Jan-2025 12:13:56 UTC] PHP Warning:  Attempt to read property "ltn" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 71
+[16-Jan-2025 12:13:56 UTC] PHP Warning:  Attempt to read property "lng" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 72
+[16-Jan-2025 12:13:56 UTC] PHP Warning:  Attempt to read property "id" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 96
+[16-Jan-2025 12:13:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) / 2), 2) +
+                            COS(RADIANS()) * COS(RADIANS(orders.e' at line 3 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(97): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(18): Order::poolOrderDetails()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): OrderController::poolOrderDetails()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-deta...')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[16-Jan-2025 12:14:23 UTC] PHP Warning:  Attempt to read property "lat" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 71
+[16-Jan-2025 12:14:23 UTC] PHP Warning:  Attempt to read property "lng" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 72
+[16-Jan-2025 12:14:23 UTC] PHP Warning:  Attempt to read property "id" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 96
+[16-Jan-2025 12:14:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) / 2), 2) +
+                            COS(RADIANS()) * COS(RADIANS(orders.e' at line 3 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(97): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(18): Order::poolOrderDetails()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): OrderController::poolOrderDetails()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-deta...')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[16-Jan-2025 12:14:39 UTC] PHP Warning:  Attempt to read property "lat" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 71
+[16-Jan-2025 12:14:39 UTC] PHP Warning:  Attempt to read property "lng" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 72
+[16-Jan-2025 12:14:39 UTC] PHP Warning:  Attempt to read property "id" on string in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 96
+[16-Jan-2025 12:14:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) / 2), 2) +
+                            COS(RADIANS()) * COS(RADIANS(orders.e' at line 3 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(97): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(18): Order::poolOrderDetails()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(68): OrderController::poolOrderDetails()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-deta...')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[16-Jan-2025 12:26:40 UTC] PHP Warning:  Undefined variable $driver in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 28
+[16-Jan-2025 12:26:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 28
+[16-Jan-2025 12:26:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 28
+[16-Jan-2025 13:21:31 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 115
+[16-Jan-2025 13:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 17
+[16-Jan-2025 13:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 18
+[16-Jan-2025 13:23:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) / 2), 2) +
+                            COS(RADIANS()) * COS(RADIANS(orders.e' at line 3 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(53): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(8): Order::poolOrders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(65): OrderController::poolOrders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[16-Jan-2025 13:25:52 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 105
+[16-Jan-2025 13:59:46 UTC] PHP Warning:  Undefined variable $minutes in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 99
+[16-Jan-2025 14:23:38 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 26
+[16-Jan-2025 14:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OrderController::poolOrderRequest() in /home3/legoschool/public_html/lacms/api/v1/routes.php:71
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-requ...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 71
+[16-Jan-2025 14:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OrderController::poolOrderRequest() in /home3/legoschool/public_html/lacms/api/v1/routes.php:71
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-requ...')
+#1 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/routes.php on line 71
+[16-Jan-2025 14:27:19 UTC] PHP Warning:  Undefined array key "driver_id" in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 148
+[16-Jan-2025 14:27:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 152 and at least 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:53
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(152): DBquery::whereOrm('drivers_id', NULL)
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(34): Order::poolOrderRequest()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(71): OrderController::poolOrderRequest()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-requ...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 53
+[16-Jan-2025 14:27:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 152 and at least 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:53
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(152): DBquery::whereOrm('drivers_id', '55')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(34): Order::poolOrderRequest()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(71): OrderController::poolOrderRequest()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-requ...')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 53
+[16-Jan-2025 14:28:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_drivers.drivers_id' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/Order.php(154): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php(34): Order::poolOrderRequest()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(71): OrderController::poolOrderRequest()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'order/pool-requ...')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[16-Jan-2025 14:40:11 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 39
+[16-Jan-2025 14:44:15 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/OrderController.php on line 39
+[17-Jan-2025 08:29:25 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 26
+[17-Jan-2025 08:29:33 UTC] PHP Warning:  Undefined array key "page" in /home3/legoschool/public_html/lacms/api/v1/index.php on line 26
+[17-Jan-2025 08:29:48 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 129
+[17-Jan-2025 08:31:15 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 129
+[17-Jan-2025 09:27:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DBquery::whereOrm(), 2 passed in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 638 and at least 3 expected in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:53
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(638): DBquery::whereOrm('order_drivers.i...', '55')
+#1 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#2 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#4 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 53
+[17-Jan-2025 09:27:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.order_id JOIN orders ON orders.orders.id = =  WHERE  order_drivers.id = '55'  A' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(640): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[17-Jan-2025 09:28:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.order_id JOIN orders ON orders.orders.id = =  WHERE  order_drivers.id = '55'  A' at line 1 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(640): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[17-Jan-2025 09:28:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.orders.id' in 'on clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:84
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(84): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(641): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 84
+[17-Jan-2025 10:04:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.export_address' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:95
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(95): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(655): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 95
+[17-Jan-2025 10:12:45 UTC] PHP Fatal error:  Trait "UserValidationTrait" not found in /home3/legoschool/public_html/lacms/api/v1/Models/Order.php on line 4
+[17-Jan-2025 10:12:47 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 91
+[17-Jan-2025 10:12:49 UTC] PHP Warning:  Undefined array key "data" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 91
+[17-Jan-2025 11:08:16 UTC] PHP Warning:  Undefined array key "currentOrders" in /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php on line 92
+[17-Jan-2025 11:56:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'finished_date' in 'field list' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(660): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:02:16 UTC] PHP Warning:  Undefined array key "date2" in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 635
+[17-Jan-2025 13:02:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(666): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:02:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(666): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:03:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00 AND 2025-01-17 23:59:59' at line 9 in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(666): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:09:10 UTC] PHP Parse error:  Unclosed '[' on line 346 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 353
+[17-Jan-2025 13:14:35 UTC] PHP Warning:  Undefined property: stdClass::$date2 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 634
+[17-Jan-2025 13:14:35 UTC] PHP Warning:  Undefined property: stdClass::$date1 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 635
+[17-Jan-2025 13:16:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_drivers.driver_accepted_date' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(667): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:17:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_drivers.driver_accepted_date' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(667): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[17-Jan-2025 13:17:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_drivers.driver_accepted_date' in 'where clause' in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php:105
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php(105): PDOStatement->execute(Array)
+#1 /home3/legoschool/public_html/lacms/api/v1/Models/User.php(667): DBquery::ormGet()
+#2 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(84): User::orders()
+#3 /home3/legoschool/public_html/lacms/api/v1/routes.php(47): UserController::orders()
+#4 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/orders')
+#5 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/DBquery.php on line 105
+[23-Jan-2025 07:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ormGet() on array in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:548
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(63): User::editLogin()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(44): UserController::editLogin()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 548
+[23-Jan-2025 07:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ormGet() on array in /home3/legoschool/public_html/lacms/api/v1/Models/User.php:548
+Stack trace:
+#0 /home3/legoschool/public_html/lacms/api/v1/Controllers/UserController.php(63): User::editLogin()
+#1 /home3/legoschool/public_html/lacms/api/v1/routes.php(44): UserController::editLogin()
+#2 /home3/legoschool/public_html/lacms/api/v1/index.php(29): handlePostRequest('POST', 'user/editLogin')
+#3 {main}
+  thrown in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 548
+[23-Jan-2025 07:24:50 UTC] PHP Warning:  Undefined array key 0 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 549
+[23-Jan-2025 07:24:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 549
+[23-Jan-2025 07:25:33 UTC] PHP Warning:  Undefined array key 0 in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 550
+[23-Jan-2025 07:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/legoschool/public_html/lacms/api/v1/Models/User.php on line 550

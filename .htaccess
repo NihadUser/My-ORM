@@ -1,0 +1,50 @@
+RewriteEngine On
+
+RewriteRule ^(login|user|order|all|driver|list)/(order|login|pay|list)/([^/]+)/ index.php?state=$1&page=$2&val=$3
+RewriteRule ^(user|login|order|all|car)/(orders|pool-request|pool-details|location|car|editLogin|editPhoto|edit|details|signUpPhotos|signup|pool|login|update|brands|models|categories)/ index.php?state=$1&page=$2
+RewriteRule ^(user|login|order|all) index.php?state=$1
+
+AddType image/svg+xml .svg .svgz
+
+
+## кеширование в браузере на стороне пользователя
+#<IfModule mod_expires.c>
+#ExpiresActive On
+#ExpiresDefault "access 7 days"
+#ExpiresByType application/javascript "access plus 1 year"
+#ExpiresByType text/javascript "access plus 1 year"
+#ExpiresByType text/css "access plus 1 year"
+#ExpiresByType text/x-javascript "access 1 year"
+#ExpiresByType image/gif "access plus 1 year"
+#ExpiresByType image/jpeg "access plus 1 year"
+#ExpiresByType image/png "access plus 1 year"
+#ExpiresByType image/jpg "access plus 1 year"
+#ExpiresByType image/webp "access plus 1 year"
+#ExpiresByType image/x-icon "access 1 year"
+#ExpiresByType application/x-shockwave-flash "access 1 year"
+#</IfModule>
+## Cache-Control
+#<ifModule mod_headers.c>
+## 30 дней
+#<filesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|swf|webp)$">
+#Header set Cache-Control "max-age=2592000, public"
+#</filesMatch>
+#
+#
+## 30 дней
+#<filesMatch "\.(css|js)$">
+#Header set Cache-Control "max-age=2592000, public"
+#</filesMatch>
+#
+#
+## 2 дня
+#<filesMatch "\.(xml|txt)$">
+#Header set Cache-Control "max-age=172800, public, must-revalidate"
+#</filesMatch>
+#
+#
+## 1 день
+#<filesMatch "\.(html|htm|php)$">
+#Header set Cache-Control "max-age=172800, private, must-revalidate"
+#</filesMatch>
+#</ifModule>
